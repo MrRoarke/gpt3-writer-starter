@@ -42,7 +42,9 @@ const callGenerateEndpoint = async () => {
             <h1>Get Code-Savvy with CodeCompass</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Alleviate the pain, frustration, and insecurity with the most innovative and user-friendly coding assistant. Drop the Code question below</h2>
+            <h2>Alleviate the frustration and insecurity with the most user-friendly coding assistant. 
+            <p> Drop us your Code Question </p>
+            </h2>
           </div>
         </div>
          {/* Add this code here*/}
